@@ -11,7 +11,7 @@
 }
 
 body {
-  font-family: var(--main-font-family);
+  font-family: var(--main-font-family), 'Raleway', sans-serif;
   color: var(--main-text-color);
 }
 .link {
